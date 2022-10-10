@@ -10,6 +10,7 @@ colorama==0.4.5
 commonmark==0.9.1
 dnspython==2.2.1
 docutils==0.19
+gunicorn==19.0.0
 fastapi==0.85.0
 h11==0.13.0
 idna==3.4
